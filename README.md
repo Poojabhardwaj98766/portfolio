@@ -26,13 +26,14 @@ This is my first website that I created.
     cd Portfolio-Website
     ```
 
-2. Open `index.html` in your preferred web browser to view the website.
 
 ## Usage
 
-- **Home**: Introduction and brief about me.
+- **Home**: Introduction
+- **About**: Brief about me
+- **Education**: Introduction about my Schooling and Graduation.
+- **Skills**: A list of my technical skills and professional skills.
 - **Projects**: A showcase of my projects with descriptions and links to their repositories.
-- **Skills**: A list of my technical skills.
 - **Contact**: A form to contact me directly.
 
 Navigate through the sections using the top navigation bar or by scrolling down the page.
@@ -40,13 +41,25 @@ Navigate through the sections using the top navigation bar or by scrolling down 
 ## Screenshots
 
 ### Home Section
-![Home Section](path/to/home-section-screenshot.png)
+![image](https://github.com/Poojabhardwaj98766/portfolio/assets/104709618/ad85310a-93cc-4a98-9a0f-c29ee98c4a5c)
+
+
+### About Section
+![image](https://github.com/Poojabhardwaj98766/portfolio/assets/104709618/75425e25-3abc-46ae-914b-bc4c1aaf66ae)
+
+### Education Section
+![image](https://github.com/Poojabhardwaj98766/portfolio/assets/104709618/f1c0974a-0f79-4ce5-b51a-2785014fa26e)
+
+### Skills Section
+![image](https://github.com/Poojabhardwaj98766/portfolio/assets/104709618/2d9d5122-5675-4842-849d-191cfa495b48)
 
 ### Projects Section
-![Projects Section](path/to/projects-section-screenshot.png)
+![image](https://github.com/Poojabhardwaj98766/portfolio/assets/104709618/2b16a4d1-040d-4a36-9ca3-3263efd454ff)
+
 
 ### Contact Section
-![Contact Section](path/to/contact-section-screenshot.png)
+![image](https://github.com/Poojabhardwaj98766/portfolio/assets/104709618/f784e581-04d5-4fa8-8e42-036b47c56a34)
+
 
 ## Technologies
 
@@ -54,14 +67,7 @@ Navigate through the sections using the top navigation bar or by scrolling down 
 - **CSS**: For styling and layout
 - **JavaScript**: For interactivity and functionality
 
-## Contributing
+## Website Link
+https://poojabhardwaj98766.github.io/portfolio/
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
